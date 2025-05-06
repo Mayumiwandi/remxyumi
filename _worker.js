@@ -3,8 +3,8 @@ import { connect } from "cloudflare:sockets";
 // import { Buffer } from "node:buffer";
 
 // Variables
-const rootDomain = "yumicftigarun.web.id"; // Ganti dengan domain utama kalian
-const serviceName = "remxyumi"; // Ganti dengan nama workers kalian
+const rootDomain = "yumicftigarunwebid.workers.dev"; // Ganti dengan domain utama kalian
+const serviceName = "liselotte"; // Ganti dengan nama workers kalian
 const apiKey = ""; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = ""; // Ganti dengan email yang kalian gunakan
 const accountID = ""; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
@@ -1082,7 +1082,7 @@ let baseHTML = `
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Yumi - Proxy List</title>
     <link rel="icon" type="image/x-icon"
-			href="https://github.com/user-attachments/assets/b5feabb7-3f20-4028-9436-e3f3307dd2ae">
+			href="https://github.com/user-attachments/assets/54516e96-2d3a-42d5-8621-3ced0d3e0ce7">
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
       /* For Webkit-based browsers (Chrome, Safari and Opera) */
