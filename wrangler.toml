@@ -1,23 +1,8 @@
-name = "remxyumi"
+name = "liselotte"
 main = "_worker.js"
 compatibility_date = "2024-09-23"
 compatibility_flags = ["nodejs_compat_v2"]
 
-minify = true
-workers_dev = true
-routes = [
-  { pattern = "remxyumi.yumicftigarun.web.id", custom_domain = true },
-  { pattern = "unnes.ac.id.remxyumi.yumicftigarun.web.id", custom_domain = true },
-  { pattern = "blog.unnes.ac.id.remxyumi.yumicftigarun.web.id", custom_domain = true },
-  { pattern = "umn.ac.id.remxyumi.yumicftigarun.web.id", custom_domain = true },
-  { pattern = "www.umn.ac.id.remxyumi.yumicftigarun.web.id", custom_domain = true },
-  { pattern = "ejurnal.poliban.ac.id.remxyumi.yumicftigarun.web.id", custom_domain = true },
-  { pattern = "telkomuniversity.ac.id.remxyumi.yumicftigarun.web.id", custom_domain = true },
-  { pattern = "untar.ac.id.remxyumi.yumicftigarun.web.id", custom_domain = true },
-  { pattern = "ganecadigital.com.remxyumi.yumicftigarun.web.id", custom_domain = true },
-   { pattern = "graph.instagram.com.remxyumi.yumicftigarun.web.id", custom_domain = true },
- 
-]
 
 [unsafe.metadata.observability]
 enabled = false
