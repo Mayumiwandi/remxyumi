@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/mayumiwandi">
-    <img src="https://github.com/user-attachments/assets/86453284-bf33-43f0-b082-48e7646e005b" width="150" alt="Yumi X Rem Logo">
+    <img src="https://github.com/user-attachments/assets/54516e96-2d3a-42d5-8621-3ced0d3e0ce7" width="150" alt="Yumi X Rem Logo">
   </a>
 </p>
+
